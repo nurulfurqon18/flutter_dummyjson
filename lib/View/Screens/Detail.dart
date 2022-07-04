@@ -18,11 +18,11 @@ class ArticlScreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
-        iconTheme: IconThemeData(color: Colors.black),
+        iconTheme: IconThemeData(color: Colors.orange),
         centerTitle: true,
         title: const Text(
           'Rincian Produk',
-          style: TextStyle(color: Colors.black, fontWeight: FontWeight.w600),
+          style: TextStyle(color: Colors.orange, fontWeight: FontWeight.w600),
         ),
       ),
       body: FutureBuilder<dynamic>(
@@ -138,13 +138,13 @@ class ArticlScreen extends StatelessWidget {
                                 overflow: TextOverflow.ellipsis,
                                 maxLines: 2,
                                 style: const TextStyle(
-                                    color: Colors.black,
+                                    color: Color.fromARGB(255, 0, 255, 21),
                                     fontSize: 23,
                                     fontWeight: FontWeight.w800),
                               ),
                               Container(
                                 alignment: Alignment.center,
-                                color: const Color(0xff0F172A),
+                                color: Color.fromARGB(255, 202, 18, 18),
                                 child: const Padding(
                                   padding: EdgeInsets.symmetric(
                                       horizontal: 25, vertical: 10),
