@@ -13,4 +13,3 @@ This repository contains the source code of TOKO ELEKTRONIK, an example of getti
 ## Author
 
 - Ahmad Nurul Furqon/19.0504.0009
-- [Ahmad Nurul Furqon](https://www.instagram.com/nurulfurqon18/) (Instagram) 
