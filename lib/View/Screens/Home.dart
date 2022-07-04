@@ -32,9 +32,10 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
+        centerTitle: true,
         title: const Text(
           'TOKO ELEKTRONIK',
-          style: TextStyle(color: Colors.black, fontWeight: FontWeight.w600),
+          style: TextStyle(color: Colors.orange, fontWeight: FontWeight.w600),
         ),
       ),
       body: Column(
@@ -135,7 +136,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                       overflow: TextOverflow.ellipsis,
                                       maxLines: 1,
                                       style: const TextStyle(
-                                          color: Color.fromARGB(255, 238, 43, 43),
+                                          color: Color.fromARGB(255, 0, 255, 21),
                                           fontWeight: FontWeight.w600),
                                     ),
                                   ],  
