@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   List<String> Categorietitle = [
     "All",
-    "HP",
+    "HandPhone",
     "Laptop",
   ];
 
@@ -30,12 +30,12 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        backgroundColor: Colors.transparent,
+        backgroundColor: Colors.orange,
         elevation: 0,
         centerTitle: true,
         title: const Text(
           'TOKO ELEKTRONIK',
-          style: TextStyle(color: Colors.orange, fontWeight: FontWeight.w600),
+          style: TextStyle(color: Colors.white, fontWeight: FontWeight.w600),
         ),
       ),
       body: Column(
