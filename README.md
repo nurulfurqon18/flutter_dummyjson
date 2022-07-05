@@ -4,9 +4,9 @@ This repository contains the source code of TOKO ELEKTRONIK, an example of getti
 
 ## Demo
 
-![Logo](https://raw.githubusercontent.com/nurulfurqon18/flutter_dummyjson/main/.jpg)
+![Logo](https://raw.githubusercontent.com/nurulfurqon18/flutter_dummyjson/main/Home.jpg)
 
-![Logo](https://raw.githubusercontent.com/nurulfurqon18/flutter_dummyjson/main/.jpg)
+![Logo](https://raw.githubusercontent.com/nurulfurqon18/flutter_dummyjson/main/Halaman.jpg)
 
 
 
